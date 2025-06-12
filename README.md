@@ -68,16 +68,13 @@
 <p align="left">Me encontra nas redes ou manda um alô 👇🏼</p>
 
 <div align="left">
-  <a href="https://contate.me/devmathznxs" target="_blank">
+  <a href="https://contate.me/5511945374081" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="42" alt="WhatsApp logo" />
   </a>
-  <a href="https://x.com/devmathznx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="42" alt="Twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/dev.mathz" target="_blank">
+  <a href="https://www.instagram.com/math.keysz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="42" alt="Instagram logo" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/mathiasfernando/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="42" alt="LinkedIn logo" />
   </a>
 </div>
@@ -89,6 +86,6 @@
 - 💼 Já desenvolvi sites responsivos e funcionais com stack moderna (Next.js + Tailwind).
 - 🎯 Adoro desafios de programação e resolver problemas lógicos.
 - ☕ Viciado em café e em refatorar código limpo.
-- 🔍 Sempre estudando e evoluindo: de C para Python, agora Java e além!
+- 🔍 Sempre estudando e evoluindo: de Python para Java e além!
 
 ---
