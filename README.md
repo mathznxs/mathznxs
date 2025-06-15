@@ -37,14 +37,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java (em estudo)" />
 </div>
 
-
----
-<div align="center">
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cioxvl6worpzvlrt2psqpyo3xm&unique={true|1|on|yes})
-
-</div>
-
 <!--
 
 <h2 align="left">📦 Outras tecnologias</h2>
@@ -53,16 +45,12 @@
 </div>
 -->
 
----
-
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathznxs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathznxs&layout=compact&langs_count=7&theme=github_dark&hide_border=false" height="160" />
 </div>
-
----
 
 <h2 align="left">📈 Atividade Recente</h2>
 
