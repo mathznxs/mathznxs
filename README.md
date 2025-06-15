@@ -39,8 +39,11 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cioxvl6worpzvlrt2psqpyo3xm&unique={true|1|on|yes})
-
+<div align="center">
+  <a href="https://open.spotify.com/user/devMath">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=devMath&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 <!--
 
 <h2 align="left">📦 Outras tecnologias</h2>
