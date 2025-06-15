@@ -37,8 +37,11 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java (em estudo)" />
 </div>
 
-<!--
 ---
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cioxvl6worpzvlrt2psqpyo3xm&unique={true|1|on|yes})
+
+<!--
 
 <h2 align="left">📦 Outras tecnologias</h2>
 
