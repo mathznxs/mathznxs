@@ -58,8 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathznxs&radius=16&theme=github-dark&area=true&hide_border=false" height="300" />
 </div>
 
----
-
 <h2 align="left">🌐 Redes & Contato</h2>
 
 <p align="left">Me encontra nas redes ou manda um alô 👇🏼</p>
@@ -75,8 +73,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="42" alt="LinkedIn logo" />
   </a>
 </div>
-
----
 
 <h2 align="left">✨ Curiosidades</h2>
 
