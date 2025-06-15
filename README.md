@@ -41,7 +41,7 @@
 ---
 <div align="center">
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cioxvl6worpzvlrt2psqpyo3xm&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cioxvl6worpzvlrt2psqpyo3xm&unique={true|1|on|yes})
 
 </div>
 
