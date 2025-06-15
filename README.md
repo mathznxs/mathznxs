@@ -4,7 +4,7 @@
   Desenvolvedor Web Full Stack com foco em performance, escalabilidade e experiência do usuário. <br/>
   🎓 Formado em Desenvolvimento de Aplicações Web pelo <strong>Senac</strong>.<br/>
   🚀 Trabalho com <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, <strong>TypeScript</strong>, <strong>MongoDB</strong> e <strong>Supabase</strong>.<br/>
-  🐍 Também desenvolvo em <strong>Python</strong>, além de já ter trabalhado com <strong>PHP</strong>, <strong>C</strong> e <strong>Portugol</strong>.<br/>
+  🐍 Também desenvolvo em <strong>Python</strong>, além de já ter trabalhado com <strong>PHP</strong> e <strong>Portugol</strong>.<br/>
   📦 Meus projetos são hospedados na <strong>Vercel</strong>, com foco em deploy contínuo e responsividade.<br/>
   📚 Atualmente estudando <strong>Java</strong> para ampliar ainda mais minha stack.
 </p>
