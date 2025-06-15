@@ -29,13 +29,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="Supabase" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
-</div>
-
----
-
-<h2 align="left">📦 Outras tecnologias</h2>
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
@@ -43,6 +36,15 @@
   <!-- Placeholder para Java e outros futuros -->
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java (em estudo)" />
 </div>
+
+<!--
+---
+
+<h2 align="left">📦 Outras tecnologias</h2>
+
+<div align="left">
+</div>
+-->
 
 ---
 
