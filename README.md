@@ -19,7 +19,7 @@
 </p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,js,py,mongodb,supabase,vercel,cs,mysql,java" height="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,py,mongodb,supabase,vercel,cs,mysql,java" height="30" />
 </div>
 
 ---
