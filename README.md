@@ -4,7 +4,6 @@
 Desenvolvedor Full Stack em formação, apaixonado por transformar problemas reais em soluções digitais.
 
 🎓 Técnico em Desenvolvimento de Aplicações Web pelo <strong>Senac</strong>.<br/>
-💼 Atualmente desenvolvendo soluções internas na <strong>Centauro</strong>.<br/>
 ☕ Estudando <strong>Java</strong> para aprofundar fundamentos, POO e arquitetura de software.<br/>
 🚀 Construindo aplicações com foco em qualidade de código, escalabilidade e experiência do usuário.
 </p>
