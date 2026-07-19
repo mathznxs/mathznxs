@@ -73,12 +73,8 @@ Next.js • TypeScript • PostgreSQL
 
 <h2 align="left">📊 Estatísticas</h2>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mathznxs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathznxs&layout=compact&theme=github_dark&hide_border=true"/>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/mathznxs/mathznxs/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
