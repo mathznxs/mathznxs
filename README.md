@@ -20,7 +20,7 @@ Meu objetivo não é apenas fazer funcionar, mas construir software bem estrutur
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,java,cs,python,postgres,mysql,mongodb,supabase,azure,git,github,vercel,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,java,cs,python,postgres,mysql,mongodb,supabase,azure,git" />
 
 </div>
 
